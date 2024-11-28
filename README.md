@@ -14,4 +14,4 @@ A simple Laravel package to handle file uploads and store them locally on the se
 Install the package via Composer:
 
 ```bash
-composer require storing/storing-services
+composer require storing/storing-services:*@dev
