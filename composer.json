@@ -1,0 +1,20 @@
+{
+    "name": "storing/storing-services",
+    "description": "storing services",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kebir ishak",
+            "email": "chrisisaak22@gmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Storing\\": "src/"
+        }
+    }
+}
